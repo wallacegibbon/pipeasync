@@ -1,0 +1,20 @@
+{
+  "name": "pipeasync",
+  "description": "pipe streams and return a Promise object",
+  "version": "0.1.0",
+  "author": {
+    "name": "Wallace Gibbon",
+    "email": "wallacegibbon@aliyun.com"
+  },
+  "keywords": [
+    "pipe",
+    "stream",
+    "async",
+    "Promise"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wallacegibbon/pipeasync.git"
+  }
+}
